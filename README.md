@@ -1,1 +1,3 @@
-exercico sobre git e github
+aulas sbre git e github
+
+aprendendo commit
