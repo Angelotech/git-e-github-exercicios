@@ -1,3 +1,3 @@
-aulas sbre git e github
+aulas sobre git e github
 
-aprendendo commit
+aprendendo commit.push,poll
